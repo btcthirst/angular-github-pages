@@ -1,2 +1,2 @@
-# angula-github-pages
+# angular-github-pages
 deploy angular app to the github pages
